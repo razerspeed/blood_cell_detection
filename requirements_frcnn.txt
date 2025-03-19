@@ -3,5 +3,5 @@ Keras==2.2.4
 numpy
 opencv-python
 sklearn
-tensorflow==1.15
+tensorflow==2.4.0
 streamlit
